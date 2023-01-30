@@ -1,0 +1,6 @@
+; sprite_test2.asm
+Start                            = $8000
+infin                            = $80F6
+waitblank                        = $8021
+tilepal                          = $80F9
+loadpal                          = $8016
