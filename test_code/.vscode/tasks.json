@@ -23,7 +23,7 @@
                 }
             },
             "args": [
-                "E:\\NES\\NESASM3.exe animate.asm"
+                "G:\\NES\\NESASM3.exe animate.asm"
             ],
             "isBuildCommand": true
         },
@@ -31,7 +31,7 @@
             "label": "Emulate Code",
             "isTestCommand": true,
             "args": [
-                "E:\\NES\\fceux-2.6.4-win32\\fceux.exe animate.nes"
+                "G:\\NES\\fceux-2.6.4-win32\\fceux.exe animate.nes"
             ]
         }
     ]
